@@ -3,8 +3,6 @@
 
 Throughout this tutorial, you will learn how to randomly place cards onto the board, use a Timer to create a delay before flipping the cards, create click handlers for selecting two cards and checking if they match, track and display error counts, and create a restart game button to shuffle and reorder the cards.
 
-[How to setup Java with Visual Studio Code](https://youtu.be/BB0gZFpukJU)
-
 ![pokemon-memory-cards-java-ss](https://github.com/user-attachments/assets/c9755ff8-0b57-49fc-8ab5-d5d7dd42c3b6)
 
 ## Homework:
